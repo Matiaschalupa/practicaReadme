@@ -6,3 +6,8 @@ esto es un parrafo
 únicamente para los archivos .md (README.md)
 Tutorial Markdown (se ve en Github, acá solo se ve el formato del texto)
 :smile: Sonrisa
+
+estados archivos
+u untracked
+a added
+m modified
