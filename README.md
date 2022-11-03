@@ -11,3 +11,8 @@ estados archivos
 u untracked
 a added
 m modified
+
+Pasos
+git add .
+git commit -m "descripción"
+git push -u origin
